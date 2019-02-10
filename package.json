@@ -1,0 +1,25 @@
+{
+  "name": "mi_primer_npm",
+  "version": "1.0.0",
+  "description": "Primer projecto con npm init desde 0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/augustoflores/npm.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Augusto Flores",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/augustoflores/npm/issues"
+  },
+  "homepage": "https://github.com/augustoflores/npm#readme",
+  "devDependencies": {
+    "gulp": "^4.0.0"
+  }
+}
